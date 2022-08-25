@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "Yeah Tigers | 0x32Moon", // Name of the collection
+    name: "Yeah Tigers | KAM_LEGENDZ", // Name of the collection
     title: "{name}", 
     date: "30.06.2022", // Today Date
     socialMedia: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 0,
     totalSupply: 100,
 	toFixed: 0,
     minUnits: 1,
